@@ -185,6 +185,9 @@ B.Tech – Computer Science & Engineering (Data Science)
 GitHub:
 https://github.com/asivasaipavan
 
+Link:
+https://asivasaipavan.github.io/Amazon-Clone/
+
 ## ⚠️ Disclaimer
 
 This project is created **for educational and learning purposes only**.
